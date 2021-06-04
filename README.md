@@ -5,7 +5,7 @@
 
 
 ## Connect with me:
-<a href="https:https://www.linkedin.com/in/gabriel-souza-776723177//" target="_blank">
+<a href="https:https://www.linkedin.com/in/gabriel-souza-776723177/" target="_blank">
 <img align="center" alt="diego-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
 
