@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Gabriel Rodrigues
-- I live in: brazil :, rio de janeiro: sunglasses: sunrise:
-- I have been working on Certus Software as backend developer :computer:
+- I live in: brazil: rio de janeiro :sunglasses::sunrise:
+- I have experience with front-end and back-end: :computer:
 - I have been learnig more about Ruby on Rails :sparkling_heart:
 
 ## Connect with me:
