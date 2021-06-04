@@ -24,7 +24,8 @@
 
 
 
-![gabok2's github stats](https://github-readme-stats.vercel.app/api?username=gabok2_icons=true&count_private=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabok2&layout=compact)](https://github.com/gabok2/github-readme-stats)
+
 
 
 <!--
