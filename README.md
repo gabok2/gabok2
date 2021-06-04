@@ -2,7 +2,7 @@
 ## I'm Gabriel Rodrigues
 - I live in: brazil: rio de janeiro :sunglasses::sunrise:
 - I have experience with front-end and back-end: :computer:
-- I have been learnig more about Ruby on Rails :sparkling_heart:
+
 
 ## Connect with me:
 <a href="https:https://www.linkedin.com/in/gabriel-souza-776723177//" target="_blank">
