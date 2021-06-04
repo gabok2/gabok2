@@ -22,12 +22,9 @@
 ## Learning
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" style="max-width:100%;"></img>
 
-## My Another Skills
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png" alt="ionic" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="ionic" width="40" height="40" style="max-width:100%;"></img>
 
-![Diego's github stats](https://github-readme-stats.vercel.app/api?username=gabok2_icons=true&count_private=true&theme=radical)
+
+![gabok2's github stats](https://github-readme-stats.vercel.app/api?username=gabok2_icons=true&count_private=true&theme=radical)
 
 
 <!--
