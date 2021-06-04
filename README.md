@@ -22,21 +22,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" style="max-width:100%;"></img>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabok2&show_icons=true&theme=radical)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabok2)](https://github.com/gabok2/github-readme-stats)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabok2&show_icons=true&theme=radical)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabok2&layout=compact)](https://github.com/gabok2/github-readme-stats)
-
-
 
 <!--
-**diegoshakan/diegoshakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gabok2/gabok2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
