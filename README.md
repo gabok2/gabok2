@@ -20,7 +20,7 @@
 <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img>
 
 ## Learning
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_logo_icon_146304.png" alt="vuejs" width="40" height="40" style="max-width:100%;"></img>
+<img src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css" width="40" height="40" style="max-width:100%;"></img>
 
 ## My Another Skills
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="40" height="40" style="max-width:100%;"></img>
