@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Gabriel Rodrigues
 - I live in: brazil: rio de janeiro :sunglasses::sunrise:
-- I have experience with front-end and back-end: :computer:
+- I have experience with front-end :computer:
 
 
 ## Connect with me:
